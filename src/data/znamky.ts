@@ -13,7 +13,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Michalec Milan Mgr."
+                ucitel: "Ucitel Mgr."
             },
             {
                 znamka: 1,
@@ -23,7 +23,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Michalec Milan Mgr."
+                ucitel: "Ucitel Mgr."
             },
             {
                 znamka: 1,
@@ -33,7 +33,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Michalec Milan Mgr."
+                ucitel: "Ucitel Mgr."
             },
             {
                 znamka: 1,
@@ -43,7 +43,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Michalec Milan Mgr."
+                ucitel: "Ucitel Mgr."
             },
             {
                 znamka: 1,
@@ -53,7 +53,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Michalec Milan Mgr."
+                ucitel: "Ucitel Mgr."
             }]
     },
     {
@@ -70,7 +70,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
@@ -88,7 +88,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     }, {
@@ -105,7 +105,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     }, {
@@ -122,7 +122,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
@@ -140,7 +140,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
@@ -158,7 +158,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
@@ -176,7 +176,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
@@ -194,7 +194,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
@@ -212,7 +212,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
@@ -230,7 +230,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
@@ -248,7 +248,7 @@ export const znamkyCelek = [
                 popis: "Ctvrtletni prace",
                 kategorie: "Ctvrtletka",
                 datum: "15.5.2025",
-                ucitel: "Jedlickova Nevim Mgr."
+                ucitel: "Ucitel Mgr."
             }
         ]
     },
