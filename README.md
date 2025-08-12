@@ -1,54 +1,78 @@
-# React + TypeScript + Vite
+# Intranet Mobile
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Moderní klon aplikace Intranet pro mobilní zařízení**
 
-Currently, two official plugins are available:
+## 📱 O projektu
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tato aplikace je moderním klonem intranetové aplikace navrženým pro mobilní uživatele. Využívá nejnovější technologie jako **Vite**, **TypeScript** a **Tailwind CSS** pro rychlý vývoj, jednoduchou údržbu a profesionální vzhled.
 
-## Expanding the ESLint configuration
+- **Vite** – Extrémně rychlý dev server a build nástroje
+- **TypeScript** – Typová bezpečnost a efektivní vývoj
+- **Tailwind CSS** – Moderní utility-first stylování
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+## 🚀 Technologie
+
+- **Frontend:** TypeScript, Vite
+- **Styly:** Tailwind CSS
+- **Další:** HTML, CSS
+
+---
+
+## 🛠️ Instalace
+
+```bash
+git clone https://github.com/JakubJirak/intranet-mobile.git
+cd intranet-mobile
+npm install
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Lokální spuštění
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
+```bash
+npm run dev
 ```
+
+### Build produkční verze
+
+```bash
+npm run build
+```
+
+---
+
+## 📦 Struktura projektu
+
+```
+intranet-mobile/
+├── src/           # Zdrojové soubory aplikace
+│   ├── components/ # UI komponenty
+│   └── App.tsx # Hlavní page
+├── public/        # Statické soubory (např. ikony, obrázky)
+├── tailwind.config.js
+├── vite.config.ts
+├── package.json
+└── README.md
+```
+
+---
+
+## ✨ Funkce
+
+- Moderní a responzivní UI
+- Rychlé načítání (Vite + optimalizace pro mobil)
+- Typová bezpečnost díky TypeScriptu
+- Snadná rozšiřitelnost a údržba
+
+---
+
+## 🖌️ Design
+
+Design se řídí principy **mobile-first** a využívá utility classes z Tailwind CSS pro čisté a konzistentní rozvržení. Stačí upravit komponenty ve složce `/src/components/` podle vlastních potřeb.
+
+---
+
+## 💬 Kontakt
+
+Máte dotazy nebo návrhy na vylepšení? Kontaktujte mě přes [GitHub Issues](https://github.com/JakubJirak/intranet-mobile/issues) nebo přímo na [profilu](https://github.com/JakubJirak).
