@@ -46,10 +46,10 @@ npm run build
 
 ```
 intranet-mobile/
-├── src/           # Zdrojové soubory aplikace
-│   ├── components/ # UI komponenty
-│   └── App.tsx # Hlavní page
-├── public/        # Statické soubory (např. ikony, obrázky)
+├── src/
+│   ├── components/  # UI komponenty
+│   └── App.tsx      # Hlavní page aplikace
+├── public/
 ├── tailwind.config.js
 ├── vite.config.ts
 ├── package.json
